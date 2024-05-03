@@ -1,5 +1,7 @@
 # Green Air Inc. Process Mining Project
 
+For the code review please look at the master branch of this project
+
 ## Project Overview
 This repository contains the analysis and documentation for the procurement process of Green Air Inc., using Python and Jupyter Notebooks to apply process mining techniques. The goal is to uncover inefficiencies, deviations from standard procedures, and opportunities for optimization within the procurement process.
 
